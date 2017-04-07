@@ -1,5 +1,5 @@
 # Skittle-search-URLs-links
-A complete list of existing and useful search URLs to add to your skittle search extension. Enjoy!
+A complete list of existing and useful search URLs to add to your skittle search extension <3 . Enjoy!
 <br/>
 The chrome extention is found here:  <a href="https://chrome.google.com/webstore/detail/skittle-search/mpcokgcaamljkbcokpfmfpkgihlfkfgl?hl=en">Skittle search link</a>
 <br/><br>
